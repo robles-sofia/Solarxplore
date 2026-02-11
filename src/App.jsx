@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 
-import logoImage from './assets/images/solarxplore.jpg'
+import logoImage from './assets/solarxplore.jpg'
 import sunImage from './assets/images/planets/sun.png'
 import mercuryImage from './assets/images/planets/mercury.png'
 import venusImage from './assets/images/planets/venus.png'
